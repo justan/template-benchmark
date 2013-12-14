@@ -1,5 +1,7 @@
 # Node.JS template engines benchmark
 
+[![Dependency Status](https://david-dm.org/justan/template-benchmark.png)](https://david-dm.org/justan/template-benchmark)
+
 ## Engines
 
 - [CoffeeKup](https://github.com/mauricemach/coffeekup) v0.3.1 ([website](http://coffeekup.org/))
